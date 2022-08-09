@@ -11,4 +11,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/Calculadora_simpl
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para acessar:
-https://rafadegolin.github.io/Calculadora_simples/
+[Calculadora](https://rafadegolin.github.io/Calculadora_simples/)
